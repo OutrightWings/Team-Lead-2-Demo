@@ -10,12 +10,23 @@
  Open the scene of the desired demo
  
  # Scenes Included
+ ### Input Demo
+ How to use the Input package
+ 
  ### Prefab Demo
  How to prefab objects and their relationship with prefab varients
+ 
+ ### Projectiles
+ How to create and clone and object in script and use collisions
  
  ### Tilemap Demo
  How to create a tilemap and use Rule Tiles
  
+ ### Menu
+ How to create simple menus
+ 
+ ### Animations
+ How to create and animation and apply it to an object
  ### Mock Game
  Aspects from all demos combined into a small game
  
